@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pooja G P 👋</h1>
+<h1 align="center">Hi there, I'm POOJA G P 👋</h1>
 
 <p align="center">
   💻 Aspiring Software Developer | 🎓 CSE Graduate | 💡 Creative Coder | 🔍 Problem Solver  
@@ -14,9 +14,9 @@ I'm a passionate Computer Science graduate with a drive to build impactful, user
 
 🚀 Tech Stack
 
-| Category         | Tools / Technologies                          |
-|------------------|-----------------------------------------------|
-| 👩‍💻 Languages     | Python, C, C++, Java , HTML, CSS         |
+| Category           | Tools / Technologies                          |
+|------------------  |-----------------------------------------------|
+| 👩‍💻 Languages      | Python, C, C++, Java , HTML, CSS         |
 | 🛠️ Dev Tools      | Git, GitHub, VS Code, Eclipse, Jupyter                 |
 | 🌐 Web Dev        | HTML, CSS, Bootstrap                         |
 | 🧠 ML & Data      | NumPy, Pandas, Scikit-learn (basics), EEG Data |
@@ -75,7 +75,7 @@ A set of mini projects for scripting, logic building, and automation.
 ---
 
 <p align="center">
-  🚀 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+  🚀 Code is like humor. When you have to explain it, it’s bad.” – Cory House
 </p>
 
 ---
