@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm POOJA G P 👋</h1>
 
 <p align="center">
-  💻 Aspiring Software Developer | 🎓 CSE Graduate | 💡 Creative Coder | 🔍 Problem Solver  
+  💻 Aspiring Software Developer | 🎓 CSE Graduate | 💡 Creative Coder | 🔍 Problem Solver  |## 🚀 Open Source Programs
+- 🌟 Contributor to [GSSoC'25](https://gssoc.girlscript.tech/)
+-
 </p>
 
 ---
