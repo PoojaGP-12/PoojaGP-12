@@ -3,7 +3,7 @@
 <p align="center">
   💻 Aspiring Software Developer | 🎓 CSE Graduate | 💡 Creative Coder | 🔍 Problem Solver  | 🚀 Open Source Programs
 - 🌟 Contributor to [GSSoC'25]
--
+
 </p>
 
 ---
