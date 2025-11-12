@@ -39,7 +39,7 @@ A smart model to evaluate student comprehension using EEG data & machine learnin
 📚 Storythm – Online Bookstore Website
 An aesthetically designed bookstore website showcasing modern UI/UX.  
 `Technologies:` HTML, CSS, Bootstrap  
-🔗 [View Repository](https://github.com/PoojaGP-12/Storythm)
+🔗 https://github.com/PoojaGP-12/Storythm-.git
 
 ---
 
