@@ -61,6 +61,7 @@ Built a machine learning model to analyze EEG signals and estimate student under
 **Tools:** Python, Pandas, Scikit-learn  
 📌 Focus: Data preprocessing, feature extraction, predictive modeling  
 
+---
 
 📚 Storythm – Online Bookstore Website
 An aesthetically designed bookstore website showcasing modern UI/UX.  
