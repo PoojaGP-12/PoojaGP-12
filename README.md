@@ -13,14 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoojaGP-12&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaGP-12&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -125,4 +117,3 @@ A set of mini projects for scripting, logic building, and automation.
 <p align="center">
   📊 "Without data, you're just another person with an opinion." – W. Edwards Deming
 </p>
----
