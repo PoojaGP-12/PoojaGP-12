@@ -13,17 +13,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoojaGP-12&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PoojaGP-12&theme=tokyonight"/>
-</p>
-
-
 ## 🧭 About Me
 
 I’m a Computer Science graduate passionate about transforming raw data into meaningful insights that drive smarter decisions. 
